@@ -1,0 +1,22 @@
+{
+  "name": "jupiter-toys-automation-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rowel14/jupiter-toys-automation-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rowel14/jupiter-toys-automation-test/issues"
+  },
+  "homepage": "https://github.com/rowel14/jupiter-toys-automation-test#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.46.1",
+    "@types/node": "^22.4.0"
+  }
+}
